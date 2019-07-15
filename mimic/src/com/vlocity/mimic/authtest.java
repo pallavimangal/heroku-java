@@ -26,12 +26,12 @@ import org.json.JSONException;
 public class authtest {
 	
 
-	    static final String USERNAME     = "pallavimangal@vdo.cmt.1562098969691";
-	    static final String PASSWORD     = "test@123";
+	    static final String USERNAME     = "*************************";
+	    static final String PASSWORD     = "*******************";
 	    static final String LOGINURL     = "https://login.salesforce.com";
 	    static final String GRANTSERVICE = "/services/oauth2/token?grant_type=password";
-	    static final String CLIENTID  = "3MVG9vtcvGoeH2bjo7wnDwss61WgJKcDq3KtbXrQr3nf2Bdl9G.78_wuvttbTKbMl7OohnNstjmI.lhhQzbGi";
-	    static final String CLIENTSECRET = "6C26D3C1FAE4FF222D50903F9AA390CD590DFA5C59BCD0293EC57D9070C1E253";
+	    static final String CLIENTID  = "***********************************";
+	    static final String CLIENTSECRET = "***********************************";
 	    private static String baseUri;
 	    private static String REST_ENDPOINT = "/services/data" ;
 	    private static String API_VERSION = "/v32.0" ;
